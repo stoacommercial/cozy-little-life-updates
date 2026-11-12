@@ -6,7 +6,7 @@
   "downloadMode": "authenticated",
   "deltaSchema": 2,
   "publishedAt": "2026-11-12",
-  "notes": "新增免授權碼的程式內差分更新，更新前核對原版、備份並驗證發佈簽章。v1.25.5 或更早版本需先手動換用完整 v1.25.6 一次；日記與小屋資料沿用原保存位置。",
+  "notes": "",
   "deltas": [
     {
       "fromVersion": "1.25.5",
