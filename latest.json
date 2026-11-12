@@ -1,0 +1,11 @@
+{
+  "format": "cozy-update-feed",
+  "schemaVersion": 1,
+  "version": "1.25.5",
+  "platform": "win32-x64",
+  "downloadMode": "authenticated",
+  "publishedAt": "2026-11-12",
+  "notes": "修正更新視窗的關閉按鈕對齊，商店茶罐改用獨立高解析圖片。",
+  "sha256": "49c16737d21af430b7ef96fcf0c78cfa2f2fa706b3e01373753d3ec8e6b2dc32",
+  "bytes": 109902820
+}
